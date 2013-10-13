@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ITVET Wi-Fi Survey Scanner</string>
+    <string name="app_Displayname">ITVET Wi-Fi Scanner</string>
+    <string name="loading_text">Please Wait...</string>
+</resources>

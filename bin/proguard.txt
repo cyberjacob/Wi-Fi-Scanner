@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:8
+-keep class uk.co.itvet.wifiscanner.SplashScreen { <init>(...); }
+
+# view AndroidManifest.xml #generated:15
+-keep class uk.co.itvet.wifiscanner.wifi_info { <init>(...); }
+
